@@ -1,1 +1,1 @@
-wow testing PR templeate -_-
+wow testing PR template -_-
